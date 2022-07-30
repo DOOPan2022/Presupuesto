@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T01:21:46.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jchdn9Op-h4cFKl9SGQ4" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-30T01:24:34.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xYQDK1OaCgb_W7vw2nCA" version="20.2.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Anemico">
     <mxGraphModel dx="902" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,6 +214,20 @@
         </mxCell>
         <mxCell id="uCZxXoCmCIl9gJFjd6jV-45" value="Se gasta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155" y="732" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uCZxXoCmCIl9gJFjd6jV-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uCZxXoCmCIl9gJFjd6jV-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uCZxXoCmCIl9gJFjd6jV-47" value="Verificacion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="495" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uCZxXoCmCIl9gJFjd6jV-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.125;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uCZxXoCmCIl9gJFjd6jV-49" target="uCZxXoCmCIl9gJFjd6jV-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uCZxXoCmCIl9gJFjd6jV-49" value="Verificado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="525" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
