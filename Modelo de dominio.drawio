@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-06T01:22:20.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="rCSfUn6mu4_QZ8dxa42_" version="20.2.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-08-06T01:22:37.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_Kypud7kmFYH87oGd6sP" version="20.2.3" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Anemico">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -668,7 +668,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BE4QI4s2e5eO_LS3GBrR" name="Otro">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -837,19 +837,19 @@
         <mxCell id="eBz46NPiF46oigxpFOK0-11" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="260" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d5z5VmLfSsy0Kcclc5Io-1" value="pertenece" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="d5z5VmLfSsy0Kcclc5Io-1" value="pertenece" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="360" y="105" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d5z5VmLfSsy0Kcclc5Io-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="d5z5VmLfSsy0Kcclc5Io-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="344.5" y="145" as="sourcePoint" />
-            <mxPoint x="344.5" y="85" as="targetPoint" />
+            <mxPoint x="339.5" y="170" as="sourcePoint" />
+            <mxPoint x="339.5" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d5z5VmLfSsy0Kcclc5Io-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="d5z5VmLfSsy0Kcclc5Io-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="379.5" y="180" as="sourcePoint" />
-            <mxPoint x="379.5" y="230" as="targetPoint" />
+            <mxPoint x="379.5" y="135" as="sourcePoint" />
+            <mxPoint x="379.5" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
