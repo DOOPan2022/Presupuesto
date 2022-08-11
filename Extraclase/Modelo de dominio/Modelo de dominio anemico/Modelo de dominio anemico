@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T20:05:12.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="gxxH8DJIjMydjH9s7ftY" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-11T20:36:52.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Wo8jn5ks11eXdEiFfd19" version="20.2.3" type="github">
   <diagram id="7DrpZPvGdeFR_wy0wPtV" name="Página-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,6 +80,24 @@
         </mxCell>
         <mxCell id="JZix03Yw61KEFH5jxEpJ-15" value="clasificado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="219" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JZix03Yw61KEFH5jxEpJ-16" value="traslada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="442" y="335" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JZix03Yw61KEFH5jxEpJ-17" value="rotar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="355" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JZix03Yw61KEFH5jxEpJ-18" value="Entran" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="435" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JZix03Yw61KEFH5jxEpJ-19" value="Piden" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="459" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JZix03Yw61KEFH5jxEpJ-20" value="maneja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="195" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JZix03Yw61KEFH5jxEpJ-21" value="es manejado&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="219" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
