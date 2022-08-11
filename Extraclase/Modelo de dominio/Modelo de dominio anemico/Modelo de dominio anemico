@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T19:25:15.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="zRvxi7eHaqlp65Ctq1P5" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-11T19:36:11.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="W6Y9LsF3IHCPYtJkZsfK" version="20.2.3" type="github">
   <diagram id="7DrpZPvGdeFR_wy0wPtV" name="Página-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,9 @@
         <mxCell id="JZix03Yw61KEFH5jxEpJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ijlkl4NJ8aheGBkxZQTT-4" target="ijlkl4NJ8aheGBkxZQTT-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JZix03Yw61KEFH5jxEpJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ijlkl4NJ8aheGBkxZQTT-4" target="ijlkl4NJ8aheGBkxZQTT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ijlkl4NJ8aheGBkxZQTT-4" value="Rotación de productos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="440" width="160" height="40" as="geometry" />
         </mxCell>
@@ -59,6 +62,12 @@
         </mxCell>
         <mxCell id="ijlkl4NJ8aheGBkxZQTT-9" value="Historial" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="640" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JZix03Yw61KEFH5jxEpJ-10" value="categorizar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="315" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JZix03Yw61KEFH5jxEpJ-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="300" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
