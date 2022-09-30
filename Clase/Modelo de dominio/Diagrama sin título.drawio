@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T01:51:54.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117 (Edition std-1)" etag="MtRmxyv2XQFgOLcYzFvP" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T01:52:06.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117 (Edition std-1)" etag="l2AjpCXd7Qtl1QOoDK-C" version="20.3.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="827" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -172,7 +172,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-CPcxFT6N0I6zqe6f85s-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="-CPcxFT6N0I6zqe6f85s-13" target="-CPcxFT6N0I6zqe6f85s-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="778" y="90" />
+              <mxPoint x="778" y="130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-CPcxFT6N0I6zqe6f85s-13" value="Año" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="40" width="250" height="100" as="geometry" />
@@ -204,7 +209,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-CPcxFT6N0I6zqe6f85s-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="-CPcxFT6N0I6zqe6f85s-20" target="-CPcxFT6N0I6zqe6f85s-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="778" y="260" />
+              <mxPoint x="778" y="200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-CPcxFT6N0I6zqe6f85s-20" value="Persona" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="210" width="250" height="100" as="geometry" />
