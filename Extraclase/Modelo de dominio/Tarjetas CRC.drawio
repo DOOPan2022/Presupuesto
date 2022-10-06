@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T22:29:24.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117 (Edition std-1)" etag="7ccJe8Vd_cleDm7oqH9z" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-06T22:33:43.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117 (Edition std-1)" etag="PGZHDmacWIGiIZbH_RZw" version="20.4.0" type="github" pages="2">
   <diagram id="iXwoXLQOFtYNu_8t82pj" name="CRC">
     <mxGraphModel dx="1654" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -572,7 +572,7 @@
             <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_WAWso1Wxc8JUQUYSs-X-136" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="_WAWso1Wxc8JUQUYSs-X-134" vertex="1">
+        <mxCell id="_WAWso1Wxc8JUQUYSs-X-136" value="Ciudad" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="_WAWso1Wxc8JUQUYSs-X-134" vertex="1">
           <mxGeometry x="130" width="130" height="30" as="geometry">
             <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -585,7 +585,7 @@
             <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_WAWso1Wxc8JUQUYSs-X-139" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="_WAWso1Wxc8JUQUYSs-X-137" vertex="1">
+        <mxCell id="_WAWso1Wxc8JUQUYSs-X-139" value="Sección" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="_WAWso1Wxc8JUQUYSs-X-137" vertex="1">
           <mxGeometry x="130" width="130" height="30" as="geometry">
             <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
