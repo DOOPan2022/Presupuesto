@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T17:43:19.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117 (Edition std-1)" etag="aaP3_x3gyYXYiD9_HJ9Z" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-07T17:47:12.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117 (Edition std-1)" etag="HFWoRePjYAAxeLULEI4y" version="20.4.0" type="github" pages="2">
   <diagram id="iXwoXLQOFtYNu_8t82pj" name="CRC">
     <mxGraphModel dx="1654" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1285,7 +1285,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_JelryQA-MloOK6TMcQh-5" value="Departamento" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="_JelryQA-MloOK6TMcQh-5" value="Ciudad" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="-160" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_JelryQA-MloOK6TMcQh-6" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="_JelryQA-MloOK6TMcQh-5">
@@ -1323,6 +1323,103 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_JelryQA-MloOK6TMcQh-14" value="dept Departamento NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="_JelryQA-MloOK6TMcQh-12">
+          <mxGeometry x="30" width="250" height="30" as="geometry">
+            <mxRectangle width="250" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-16" value="Almacén" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-17" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="_JelryQA-MloOK6TMcQh-16">
+          <mxGeometry y="30" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-18" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="_JelryQA-MloOK6TMcQh-17">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-19" value="Codigo" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="_JelryQA-MloOK6TMcQh-17">
+          <mxGeometry x="30" width="250" height="30" as="geometry">
+            <mxRectangle width="250" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-20" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="_JelryQA-MloOK6TMcQh-16">
+          <mxGeometry y="60" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-21" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="_JelryQA-MloOK6TMcQh-20">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-22" value="direccion char(50) NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="_JelryQA-MloOK6TMcQh-20">
+          <mxGeometry x="30" width="250" height="30" as="geometry">
+            <mxRectangle width="250" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-23" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="_JelryQA-MloOK6TMcQh-16">
+          <mxGeometry y="90" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-24" value="FK1" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="_JelryQA-MloOK6TMcQh-23">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-25" value="ciudad Ciudad NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="_JelryQA-MloOK6TMcQh-23">
+          <mxGeometry x="30" width="250" height="30" as="geometry">
+            <mxRectangle width="250" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-36" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="_JelryQA-MloOK6TMcQh-16">
+          <mxGeometry y="120" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-37" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="_JelryQA-MloOK6TMcQh-36">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-38" value="descripción char(200) NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="_JelryQA-MloOK6TMcQh-36">
+          <mxGeometry x="30" width="250" height="30" as="geometry">
+            <mxRectangle width="250" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-26" value="Ciudad" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="160" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-27" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="_JelryQA-MloOK6TMcQh-26">
+          <mxGeometry y="30" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-28" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="_JelryQA-MloOK6TMcQh-27">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-29" value="Codigo" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="_JelryQA-MloOK6TMcQh-27">
+          <mxGeometry x="30" width="250" height="30" as="geometry">
+            <mxRectangle width="250" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-30" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="_JelryQA-MloOK6TMcQh-26">
+          <mxGeometry y="60" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-31" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="_JelryQA-MloOK6TMcQh-30">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-32" value="nombre char(50) NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="_JelryQA-MloOK6TMcQh-30">
+          <mxGeometry x="30" width="250" height="30" as="geometry">
+            <mxRectangle width="250" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-33" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="_JelryQA-MloOK6TMcQh-26">
+          <mxGeometry y="90" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-34" value="FK1" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="_JelryQA-MloOK6TMcQh-33">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_JelryQA-MloOK6TMcQh-35" value="dept Departamento NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="_JelryQA-MloOK6TMcQh-33">
           <mxGeometry x="30" width="250" height="30" as="geometry">
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
